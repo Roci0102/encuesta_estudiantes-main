@@ -9,7 +9,11 @@ unset($_SESSION['mensaje_exito']);
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Encuesta de estudiantes - Educación Superior</title>
+  <meta name="author" content="INST. SUP. ANGACO" />
+<meta
+  name="description"
+  content="Caracterización psicosocial de la población estudiantil de los Institutos de Educación Superior de la Provincia de San Juan." />
+  <title>Encuesta estudiantes - Educación Superior DES</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
   <link href="css/estilos.css" rel="stylesheet">
 </head>

@@ -1,8 +1,8 @@
 <?php
-$host = 'localhost';
-$db   = 'encuesta_estudiantes';
-$user = 'root';
-$pass = '';
+$host = '10.0.10.75';
+$db   = 'isftsanj_encuesta_estudiantes';
+$user = 'isftsanj_encuesta';
+$pass = 'Encuesta2026';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
